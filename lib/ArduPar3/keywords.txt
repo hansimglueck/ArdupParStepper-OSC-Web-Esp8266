@@ -1,0 +1,40 @@
+#######################################
+# Syntax Coloring Map For ArdOSC
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+AbstractArduPar3	KEYWORD1
+IntArduPar3	KEYWORD1
+LongArduPar3	KEYWORD1
+CallbackArduPar3	KEYWORD1
+NvsManager KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+
+
+updateParametersFromStream	KEYWORD2
+dumpParameterInfos	KEYWORD2
+loadAll	KEYWORD2
+saveAll	KEYWORD2
+registerInstance KEYWORD2
+
+digestMessage	KEYWORD2
+parseParameterString	KEYWORD2
+dumpParameterInfo	KEYWORD2
+getAdress	KEYWORD2
+parseSerialData	KEYWORD2
+getAdress	KEYWORD2
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+
+

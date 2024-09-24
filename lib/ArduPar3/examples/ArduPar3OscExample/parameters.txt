@@ -1,0 +1,5 @@
+float	/someFloat	An exquisite float	0.00	0.00	10.00
+int32_t	/someInt	An exquisite integer	0	0	10000
+trigger	/dump	Print Parameter Summary
+trigger	/load	Load Settings.
+trigger	/save	Save Settings.
